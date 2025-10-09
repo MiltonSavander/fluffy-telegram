@@ -17,4 +17,6 @@ Detta är vanlig text!
    4. asdas
 3. Trean här
 
-[Namnet på länken](https://google.com)
+![Namnet på länken](https://play-lh.googleusercontent.com/np2gRgCtxFU0Pv_PVFdrzDUI0eJIizhimibNGVvwQD5jmOCR__qg0tXRjd4jEVCVVcbE)
+
+Detta är _**fetstilt**_ text!
