@@ -23,5 +23,7 @@ Detta är vanlig text!
 
 ![och en ny bild](https://www.foodandwine.com/thmb/8mlDM854zzRlSolN8d65MDGr8vM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/swedish-chef-ft-blog0617-5afcaa144e2a4600a02992603e9d1a2b.jpg)
 
+![lokalbild](/sesame%20street.jpg)
+
 
 Detta är _**fetstilt**_ text!
